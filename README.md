@@ -1,2 +1,0 @@
-# moord-design
-format
